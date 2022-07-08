@@ -1,0 +1,1 @@
+# test-technique-color-telecom
