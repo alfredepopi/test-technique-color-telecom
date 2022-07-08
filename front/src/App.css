@@ -1,0 +1,36 @@
+li {
+  border-radius: 10px black;
+}
+form {
+  background-color: rgba(185, 174, 174, 0.906);
+  text-align: center;
+}
+
+input {
+ border-radius: 10px;
+ width: 200px;
+ text-align: center;
+ height: 50px;
+}
+
+button{
+  background-color: white; /* Green */
+  border: 2px solid red;
+
+  color: black;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+h1 {
+  text-align: center;
+}
+
+ul{
+  text-align: center;
+}
